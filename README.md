@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently a 2nd year Mechatronics (Robotics) student at the University of Waterloo.\
-🤔 I'm interested in Firmware, Robotics, and AI (a bit all over the place, I know) !\
+🤔 I'm interested in Firmware, Robotics, and AI. (a bit all over the place, I know)\
 📫 Reach me [here](https://www.linkedin.com/in/ethancpwoo/) !
