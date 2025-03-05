@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently a 2nd year Mechatronics and Robotics student at the University of Waterloo.\
-🤔 I'm interested in Firmware, Robotics, and AI.\
+🌱 I’m currently a 3rd year Mechatronics and Robotics student at the University of Waterloo.\
+🤔 I'm interested in Embedded Systems and Robotics.\
 📫 Reach me [here](https://www.linkedin.com/in/ethancpwoo/) !
